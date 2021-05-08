@@ -1,1 +1,1 @@
-# kaszual.github.io
+# mini projects
